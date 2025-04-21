@@ -1,0 +1,2 @@
+E:/StudyFile/MobileAppDev/ct312hm04-project-BookreadingApp/android/app/.cxx/Debug/4n1r671n/x86_64/CMakeFiles/edit_cache.dir
+E:/StudyFile/MobileAppDev/ct312hm04-project-BookreadingApp/android/app/.cxx/Debug/4n1r671n/x86_64/CMakeFiles/rebuild_cache.dir
